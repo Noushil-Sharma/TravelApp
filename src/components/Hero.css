@@ -1,0 +1,42 @@
+.Hero{
+    background-image: url('../assets/maini.jpg');
+    height: 43rem;
+    background-size: cover;
+    padding-top: 40px;
+    
+}
+.text-container{
+    /* margin-top: 10px; */
+    text-align: center;
+    padding-top: 15rem;
+}
+.head{
+    font-size: 70px;
+}
+.head2{
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 100;
+    color: rgb(211, 221, 230);
+}
+.button1 {
+    background-color: rgb(8, 84, 197);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 3rem;
+    
+  }
+  .button1:hover{
+    background-color: rgb(27, 47, 226);
+  }
+.but{
+    padding-top: 30px;
+}

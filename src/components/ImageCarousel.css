@@ -1,0 +1,45 @@
+.card11{
+    width: 15rem;
+    height: 18rem;
+    background-color: rgb(244, 244, 250);
+    margin: 2rem;
+    border-radius: 2rem;
+}
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ensure items take up the full height of the carousel */
+  }
+  
+.centered-content {
+    text-align: center; /* Center text horizontally */
+}
+
+.carousel .control-dots .dot {
+    background: rgb(155, 119, 239); /* Change the dot color to black */
+    width: 10px; /* Adjust the dot width as needed */
+    height: 10px; /* Adjust the dot height as needed */
+    margin: 0 5px; /* Add spacing between dots as needed */
+    border-radius: 50%; /* Make the dots circular */
+  }
+  
+  /* Styling for the active dot */
+  .carousel .control-dots .dot.selected {
+    background: rgb(63, 88, 227); /* Change the color of the active dot if needed */
+  }
+
+h2{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.text11{
+    text-align: justify;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
+
+  

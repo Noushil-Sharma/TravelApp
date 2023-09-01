@@ -1,0 +1,11 @@
+.price-box {
+    display: inline-block;
+    background-color: #92acf9;
+
+    width: 4rem;
+    height: 2rem;
+
+    border-radius: 2px;
+    text-align: center;
+  }
+  

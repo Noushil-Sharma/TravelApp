@@ -1,0 +1,81 @@
+.OurBenefit{
+    display: flex;
+    background: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+}
+.text-Section{
+    margin: 2rem;
+    margin-left: 3rem;
+}
+.benefit_content{
+    font-size: 1.8rem;
+    margin-bottom: 50px;
+    font-family: "Nunito Sans", sans-serif;
+    line-height: 3rem;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Gap between grid items */
+  }
+  
+.grid-item {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 2rem;
+  }
+  h4{
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1.4rem;
+  }
+  p{
+    font-size: 1.2rem;
+    line-height: 2.2rem;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: lighter;
+  }
+
+.image-Section{
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 5%;
+}
+.img1{
+    width: 15rem;
+    height: 23rem;
+    margin: 1.5rem;
+    background-color: blue;
+    background-image: url('../assets/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.img2{
+    margin: 1.5rem;
+    width: 15rem;
+    height: 17rem;
+    background-color: blue; 
+    background-image: url('../assets/img2.webp');
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.img3{
+    margin: 1.5rem;
+    width: 15rem;
+    height: 17rem;
+    margin-left: 0.5rem;
+    background-color: blue; 
+    background-image: url('../assets/img3.webp');
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.img4{
+    width: 15rem;
+    height: 23rem;
+    margin: 1.5rem;
+    margin-left: 0.5rem;
+    background-color: blue;
+    background-image: url('../assets/img4.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

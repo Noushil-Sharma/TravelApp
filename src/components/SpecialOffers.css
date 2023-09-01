@@ -1,0 +1,76 @@
+.head{
+    font-size: 50px;
+}
+
+.header1{
+    margin-left: 3rem;
+    margin-top: 20px;
+    display: flex;
+}
+.text1{
+    margin-left: 35rem;
+    font-family: "Nunito Sans", sans-serif;
+    color: #1D2A3B;
+    font-weight: 400;
+    line-height: 1.4rem;
+    font-size: 0.9rem;
+    font-style: italic;
+
+}
+.card-container{
+    margin: 2rem;
+    margin-top: 1rem;
+    display: flex;
+}
+.card{
+    margin: 2rem;
+    height: 27rem;
+    width: 31rem;
+    background-color: rgb(244, 244, 250);
+}
+.img-container1{
+    height: 20rem;
+    background-image: url('../assets/hp-1.jpg');
+    background-repeat: no-repeat;
+}
+.img-container2{
+    height: 20rem;
+    background-image: url('../assets/hp-2.jpg.webp');
+    background-repeat: no-repeat;
+}
+.img-container3{
+    height: 20rem;
+    background-image: url('../assets/hp-3.jpg.webp');
+    background-repeat: no-repeat;
+}
+.text-container-1{
+    height: 6rem;
+    
+}
+h4{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0.6rem;
+    font-size: 1.6rem;
+}
+.inner_data{
+    margin: .6rem;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1rem;
+}
+.price_b{
+    width: 1rem;
+    height: 1rem;
+}
+.p_data{
+    display: flex;
+}
+.price_b{
+    margin-top: 0.7rem;
+    margin-left: 9rem;
+}
+
+
